@@ -1,2 +1,3 @@
 # Projet-a
-Ceci est un projet test pour montrer la collaboration GIT.
+Ceci est un projet test pour montrer Je viens d'ajouter le conflit.
+Ajout de la ligne JC
