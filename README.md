@@ -1,2 +1,2 @@
 # Projet-a
-Ceci est un projet test pour montrer la collaboration GIT.
+Moufid vient de modifier le fichier README.md
